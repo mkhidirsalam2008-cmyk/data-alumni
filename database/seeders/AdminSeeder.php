@@ -1,8 +1,10 @@
 <?php
 
-use Illuminate\Database\Seeder;
+namespace Database\Seeders;
+
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Database\Seeder;
 
 class AdminSeeder extends Seeder
 {
