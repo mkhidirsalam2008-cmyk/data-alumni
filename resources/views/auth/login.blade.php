@@ -13,7 +13,7 @@
             </h1>
 
             <p class="text-gray-500 text-sm mt-1">
-                Login Admin Panel
+                Login Admin 
             </p>
         </div>
 
